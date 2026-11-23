@@ -1,0 +1,1 @@
+updated version that WORKS. I don't own the mod, but this is a timely measure to fix this problem and not gaf that it's broken. DL the zip, put two files (folder and a DLL) into "plugins" of BepInEx (or install it first, if u dunno what's that), and you're free to enjoy fetish mod in this porn game
